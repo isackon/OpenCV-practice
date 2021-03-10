@@ -1,4 +1,4 @@
 ﻿# OpenCV-practice
 
-# Content
+## Content
 Lesson 1. Learned how to read/write images
